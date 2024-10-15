@@ -16,5 +16,5 @@ The Expense Tracker is a web application built using Python and Streamlit that a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anujchaura/Expense-Tracker/
    cd expense-tracker
